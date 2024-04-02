@@ -1,5 +1,0 @@
-pygame
-pymunk
-websockets
-asyncio
-logging
